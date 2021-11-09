@@ -1,0 +1,10 @@
+.principal ul{
+    border: 1px solid #000;
+    float:left;
+}
+.contenido-derecho{
+    border: 2px solid #000;
+    float:left;
+    height: 120px;
+    width: 30%;
+}
