@@ -1,0 +1,19 @@
+.gifis{
+    border: 2px solid #fff;
+    border-radius: 17px;
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    margin: 16px;
+    padding:10px;
+    width: 40%;
+}
+.gifis h4{
+    margin: 0;
+}
+.gifis image{
+    object-fit: contain;
+}
+i {
+    font-size: 60px;
+}

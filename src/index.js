@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Main from './main/Main';
+//import Main from './main/Main';
 import App from './App';
 //import Hola from "./hola";
 //import Mensaje from "./Inicio/Mensaje";
 //import Main from "./main/Main";
-import Profesores from "./profesores/profesores"
+//import Profesores from "./profesores/profesores"
 import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode >
     <App/>
   </React.StrictMode>,
   document.getElementById('root')
